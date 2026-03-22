@@ -1,2 +1,0 @@
-# vaura-webapp
-Vaura Vpn 
